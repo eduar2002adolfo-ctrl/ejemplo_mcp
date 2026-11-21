@@ -1,0 +1,3 @@
+Nombre: Elena
+Edad: 22
+Ciudad: Medellín

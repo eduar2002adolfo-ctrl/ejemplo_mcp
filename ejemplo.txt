@@ -1,0 +1,3 @@
+Hola, este es un archivo creado por el asistente.
+
+Esta es una nueva línea agregada al archivo.
